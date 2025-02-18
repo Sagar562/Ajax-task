@@ -1,0 +1,13 @@
+INSERT INTO `Form` (first_name, last_name, email, address) VALUES
+('Sagar', 'Vyas', 'vyassagar4327@gmail.com', '190/2273,Pratiksha App,Solaroad,Naranpura,Ahmedabad');
+
+
+INSERT INTO `AboutUs`(company_name, company_details, company_email, company_number) VALUES
+('CHPL', 'Communities Heritage Pvt Ltd Innovators in Residential Estate, Business Associations and HRMS Solutions. CHPL is a leading IT solutions provider specializing in comprehensive technology-driven solutions for residential estate management, association management, and Human Resource Management Systems (HRMS). With a commitment to innovation and efficiency, we empower businesses and communities to streamline operations, enhance engagement, and optimize management processes.', 'abcd123@gmail.com', 7825612447);
+
+
+INSERT INTO `AboutUs`(company_name, company_details, company_email, company_number) VALUES
+('Wipro', 'Wipro Limited is an Indian multinational technology company based in Bengaluru. It provides information technology, consulting and business process services. It is one of the six leading Indian Big Tech companies.', 'wipro21@gmail.com', 8269954777);
+
+INSERT INTO `ContacUs`(first_name, last_name, email, phone_number) VALUES
+('Sagar', 'Vyas', 'asd1@gmail.com', 9984568475);
